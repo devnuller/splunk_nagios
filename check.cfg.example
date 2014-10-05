@@ -1,0 +1,4 @@
+[splunk]
+baseurl=https://localhost:8089/services/
+username=admin
+password=changeme
